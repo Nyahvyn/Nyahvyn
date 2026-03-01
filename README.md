@@ -2,9 +2,11 @@
   Hi! Welcome to my Github Profile!
 </h1>
 <p align="center">
-  I'm teaching myself programming on my own.<br>
+  I'm Nyahvyn, a self-taught programmer.<br>
   Programing languages that I usually use : Python, JavaScript, Html, Css, Luau(Roblox)... and so on.
 </p>
+![Note]
+Nyah~ (=^・・^=)
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nyahvyn&theme=city_lights" alt="My status 1">
