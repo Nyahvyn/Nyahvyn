@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi! Welcome to my Github Profile!
+  Nyah~! Welcome to my Github Profile!
 </h1>
 <p align="center">
   I'm Nyahvyn, a self-taught programmer.<br>
